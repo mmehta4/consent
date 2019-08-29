@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "create-pkg": "lerna create"
+  },
   "devDependencies": {
     "lerna": "^3.16.4"
   }
