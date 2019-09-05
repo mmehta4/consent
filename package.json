@@ -1,5 +1,8 @@
 {
   "name": "root",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Manoj Mehta",
   "private": true,
   "scripts": {
     "create-pkg": "lerna create"
