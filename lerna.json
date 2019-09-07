@@ -2,14 +2,12 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
   "command": {
     "publish": {
       "ignoreChanges": [
-        "demo",
-        "test",
         "*.json"
       ]
     }
-  }
+  },
+  "version": "independent"
 }
