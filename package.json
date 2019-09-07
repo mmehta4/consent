@@ -5,7 +5,8 @@
   "author": "Manoj Mehta",
   "private": true,
   "scripts": {
-    "create-pkg": "lerna create"
+    "create-pkg": "lerna create",
+    "build": "lerna run build"
   },
   "devDependencies": {
     "lerna": "^3.16.4"
