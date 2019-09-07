@@ -2,5 +2,6 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "@rbc:registry": "http://localhost:8081/repository/rbc/"
 }
