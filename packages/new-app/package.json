@@ -1,5 +1,5 @@
 {
-  "name": "@app/my-react-app",
+  "name": "@rbc/new-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
